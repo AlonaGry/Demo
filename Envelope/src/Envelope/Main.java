@@ -1,0 +1,50 @@
+package Envelope;
+
+import java.util.Scanner;
+
+import static Envelope.EnvelopeAnalysis.compare;
+
+public class Main {
+
+    private static final String Y = "y";
+    private static final String YES = "yes";
+
+    public static void main(String[] args) {
+
+        Scanner scan = new Scanner(System.in);
+        Envelope env1 = new Envelope();
+        Envelope env2 = new Envelope();
+
+        try {
+            System.out.print("Please, enter the width of the envelope ");
+            env1.setWidth(Double.parseDouble(scan.nextLine()));
+            System.out.print("Do you want to enter the next size? ");
+            String answer = scan.nextLine();
+            if (answer.equalsIgnoreCase(Y) || answer.equalsIgnoreCase(YES)) {
+                System.out.print("Please, enter the height of the envelope ");
+                env1.setHeight(Double.parseDouble(scan.nextLine()));
+                System.out.print("Do you want to enter the next size? ");
+                answer = scan.nextLine();
+                if (answer.equalsIgnoreCase(Y) || answer.equalsIgnoreCase(YES)) {
+                    System.out.print("Please, enter the width of the envelope ");
+                    env2.setWidth(Double.parseDouble(scan.nextLine()));
+                    System.out.print("Do you want to enter the next size? ");
+                    answer = scan.nextLine();
+                    if (answer.equalsIgnoreCase(Y) || answer.equalsIgnoreCase(YES)) {
+                        System.out.print("Please, enter the height of the envelope ");
+                        env2.setHeight(Double.parseDouble(scan.nextLine()));
+                    }
+                }
+            }
+        }catch (Exception e){
+            e.getMessage();
+        }
+
+        if (compare(env1, env2)){
+            System.out.println("You can put one envelope to another");
+        } else {
+            System.out.println("You cann't put one envelope to another");
+        }
+
+    }
+}
