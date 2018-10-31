@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83d7de1e-e9be-4482-99df-2b60f4712ce4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Envelope/Envelope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Envelope/EnvelopeAnalysis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Envelope/EnvelopeAnalysisTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sequence/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sequence/Sequence.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sequence/src/Sequence/ParameterizedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sequence/src/Sequence/Sequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sequence/src/Sequence/SequenceException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sequence/src/Sequence/ValueSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sequence/test/Sequence/SequenceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Triangles/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Triangles/src/com/company/SortTriangles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Triangles/src/com/company/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Triangles/src/com/company/TriangleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fibonacci2.0/src/Fibonacci/Fibonacci.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Elementary Tasks/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Square/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Square/src/com/company/IsSquare.java" afterDir="false" />
@@ -40,6 +26,33 @@
       <change beforePath="$PROJECT_DIR$/../../Chess/src/com/company/ChessBoard.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Chess/src/com/company/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Chess/src/qwe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Envelope/Envelope/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Envelope/Envelope/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Envelope/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Envelope/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sequence/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sequence/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sequence/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sequence/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sequence/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sequence/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sequence/out/production/Sequence/Sequence/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Sequence/out/production/Sequence/Sequence/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sequence/out/production/Sequence/Sequence/ParameterizedTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Sequence/out/production/Sequence/Sequence/ParameterizedTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sequence/out/production/Sequence/Sequence/Sequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Sequence/out/production/Sequence/Sequence/Sequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sequence/out/production/Sequence/Sequence/SequenceException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sequence/out/production/Sequence/Sequence/ValueSource.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Sequence/out/production/Sequence/Sequence/ValueSource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sequence/out/test/Sequence/Sequence/SequenceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Sequence/out/test/Sequence/Sequence/SequenceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sequence/src/Sequence/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sequence/src/Sequence/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sequence/src/Sequence/Sequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sequence/src/Sequence/Sequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sequence/src/Sequence/SequenceException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sequence/src/Sequence/MyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sequence/test/Sequence/SequenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sequence/test/Sequence/SequenceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangles/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangles/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Triangles/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangles/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangles/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangles/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Triangles/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangles/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Triangles/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangles/Triangles.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Triangles/Triangles.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangles/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Triangles/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangles/src/com/company/SortTriangles.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Triangles/src/com/company/SortTriangles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangles/src/com/company/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Triangles/src/com/company/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Fibonachi/.idea/description.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Fibonachi/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Fibonachi/.idea/modules.xml" beforeDir="false" />
@@ -95,14 +108,35 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="553026915">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="19" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Envelope/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="15" column="39" selection-start-line="14" selection-start-column="8" selection-end-line="15" selection-end-column="39" />
+            <state relative-caret-position="697">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -122,8 +156,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Envelope/EnvelopeAnalysis.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            <state relative-caret-position="272">
+              <caret line="16" column="70" selection-start-line="9" selection-start-column="16" selection-end-line="16" selection-end-column="70" />
             </state>
           </provider>
         </entry>
@@ -131,7 +165,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/Envelope/EnvelopeAnalysisTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
+            <state relative-caret-position="310">
               <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
             </state>
           </provider>
@@ -148,15 +182,15 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Envelope/Envelope.java" />
         <option value="$PROJECT_DIR$/src/Envelope/EnvelopeAnalysis.java" />
-        <option value="$PROJECT_DIR$/src/Envelope/Main.java" />
         <option value="$PROJECT_DIR$/test/Envelope/EnvelopeAnalysisTest.java" />
+        <option value="$PROJECT_DIR$/src/Envelope/Main.java" />
       </list>
     </option>
   </component>
@@ -178,7 +212,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -201,7 +235,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -210,9 +244,10 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540293876520" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540549930539" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -234,7 +269,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.EnvelopeAnalysisTest.compareTheDifferentVerticallyCompatibleEnvelope">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Envelope.Main" />
       <module name="Envelope" />
@@ -284,9 +319,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.EnvelopeAnalysisTest.compareTheDifferentVerticallyCompatibleEnvelope" />
         <item itemvalue="JUnit.EnvelopeAnalysisTest.compareTheSameEnvelope" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -302,6 +337,10 @@
       <updated>1540285692785</updated>
       <workItem from="1540285694363" duration="8169000" />
       <workItem from="1540294087477" duration="74000" />
+      <workItem from="1540549828688" duration="127000" />
+      <workItem from="1540549991169" duration="257000" />
+      <workItem from="1540556316666" duration="339000" />
+      <workItem from="1540892444388" duration="622000" />
     </task>
     <servers />
   </component>
@@ -312,14 +351,18 @@
     <history-entry file="EnvelopeAnalysisTest_compareTheDifferentVerticallyCompatibleEnvelope - 2018.10.23 at 14h 22m 14s.xml">
       <configuration name="EnvelopeAnalysisTest.compareTheDifferentVerticallyCompatibleEnvelope" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="EnvelopeAnalysisTest_compareTheDifferentVerticallyCompatibleEnvelope - 2018.10.26 at 13h 31m 26s.xml">
+      <configuration name="EnvelopeAnalysisTest.compareTheDifferentVerticallyCompatibleEnvelope" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8243000" />
+    <option name="totallyTimeSpent" value="9588000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2685325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -358,8 +401,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Envelope/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="39" selection-start-line="14" selection-start-column="8" selection-end-line="15" selection-end-column="39" />
+        <state relative-caret-position="697">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -375,14 +418,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Envelope/EnvelopeAnalysis.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        <state relative-caret-position="272">
+          <caret line="16" column="70" selection-start-line="9" selection-start-column="16" selection-end-line="16" selection-end-column="70" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/Envelope/EnvelopeAnalysisTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
+        <state relative-caret-position="310">
           <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
         </state>
       </provider>

@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9c456ba-93dc-46f6-9b0a-97a6b14af00b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sequence.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sequence/ParameterizedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sequence/Sequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sequence/SequenceException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sequence/ValueSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Sequence/SequenceTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Elementary Tasks/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Square/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Square/src/com/company/IsSquare.java" afterDir="false" />
@@ -32,6 +25,29 @@
       <change beforePath="$PROJECT_DIR$/../../Chess/src/com/company/ChessBoard.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Chess/src/com/company/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Chess/src/qwe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sequence/Sequence/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sequence/Sequence/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sequence/Sequence/ParameterizedTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sequence/Sequence/ParameterizedTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sequence/Sequence/Sequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sequence/Sequence/Sequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sequence/Sequence/SequenceException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sequence/Sequence/ValueSource.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sequence/Sequence/ValueSource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Sequence/Sequence/SequenceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/Sequence/Sequence/SequenceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sequence/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sequence/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sequence/Sequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sequence/Sequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sequence/SequenceException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sequence/MyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Sequence/SequenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Sequence/SequenceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangles/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangles/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Triangles/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangles/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangles/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangles/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Triangles/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangles/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Triangles/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangles/Triangles.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Triangles/Triangles.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangles/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Triangles/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangles/src/com/company/SortTriangles.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Triangles/src/com/company/SortTriangles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangles/src/com/company/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Triangles/src/com/company/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Fibonachi/.idea/description.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Fibonachi/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Fibonachi/.idea/modules.xml" beforeDir="false" />
@@ -86,14 +102,37 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1485885246">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="2" />
+          <entry key="java" value="222" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="222" />
+          <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Sequence/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="136">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,30 +143,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Sequence/Sequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            <state relative-caret-position="68">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/Sequence/SequenceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+            <state relative-caret-position="697">
+              <caret line="41" column="22" lean-forward="true" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sequence/SequenceException.java">
+        <entry file="file://$PROJECT_DIR$/src/Sequence/MyException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#115#116#0" expanded="true" />
-                <element signature="e#145#146#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -144,16 +182,16 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Sequence/Sequence.java" />
         <option value="$PROJECT_DIR$/src/Sequence/SequenceException.java" />
-        <option value="$PROJECT_DIR$/src/Sequence/Main.java" />
         <option value="$PROJECT_DIR$/src/Sequence/ParameterizedTest.java" />
         <option value="$PROJECT_DIR$/src/Sequence/ValueSource.java" />
+        <option value="$PROJECT_DIR$/src/Sequence/Sequence.java" />
+        <option value="$PROJECT_DIR$/src/Sequence/Main.java" />
         <option value="$PROJECT_DIR$/test/Sequence/SequenceTest.java" />
       </list>
     </option>
@@ -187,7 +225,24 @@
             <path>
               <item name="Sequence" type="b2602c69:ProjectViewProjectNode" />
               <item name="Sequence" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sequence" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sequence" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Sequence" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sequence" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sequence" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sequence" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sequence" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Sequence" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -202,9 +257,13 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540284413455" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540547584027" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -229,8 +288,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Sequence" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sequence.Main" />
       <module name="Sequence" />
       <extension name="coverage">
@@ -239,16 +308,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="Sequence" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -270,11 +329,9 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.SequenceTest" />
-      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="JUnit.SequenceTest" />
       </list>
     </recent_temporary>
@@ -290,6 +347,9 @@
       <option name="presentableId" value="Default" />
       <updated>1540283007877</updated>
       <workItem from="1540283009989" duration="1514000" />
+      <workItem from="1540379259106" duration="331000" />
+      <workItem from="1540469139713" duration="2613000" />
+      <workItem from="1540547247975" duration="342000" />
     </task>
     <servers />
   </component>
@@ -300,41 +360,45 @@
     <history-entry file="SequenceTest - 2018.10.23 at 11h 46m 04s.xml">
       <configuration name="SequenceTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SequenceTest - 2018.10.25 at 15h 13m 22s.xml">
+      <configuration name="SequenceTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1514000" />
+    <option name="totallyTimeSpent" value="4800000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3293718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3293718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3293718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,24 +408,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sequence/SequenceException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#115#116#0" expanded="true" />
-            <element signature="e#145#146#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/Sequence/ParameterizedTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -376,29 +423,114 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/Sequence/SequenceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sequence/Sequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Sequence/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="136">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sequence/Sequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sequence/MyException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Sequence/SequenceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="22" lean-forward="true" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Sequence</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

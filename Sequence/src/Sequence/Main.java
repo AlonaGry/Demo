@@ -7,19 +7,25 @@ public class Main {
 
     public static void main(String[] args) {
 
-
             Scanner scan = new Scanner(System.in);
-
             Sequence seq = new Sequence();
-            System.out.print("Enter the m: ");
-            seq.SetFirstNumber(scan.nextLine());
-            System.out.print("Enter the n: ");
+        do {
+            System.out.println("Enter the m: ");
+            try {
+                seq.SetFirstNumber(scan.nextLine());
+            } catch (MyException ex) {
+                System.out.println(ex.getMessage());
+            }
+        } while (seq.getFirstNumber()== -1);
+
+        do {
+        System.out.println("Enter the n: ");
             try {
                 seq.SetLength(scan.nextLine());
-            } catch (SequenceException e) {
+            } catch (MyException e) {
                 System.out.println(e.getMessage());
             }
-
+            }while (seq.getLength()==-1);
             System.out.println(Arrays.toString(seq.getSequenceArr()));
 
     }

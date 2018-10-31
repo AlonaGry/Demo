@@ -1,5 +1,7 @@
 package com.company;
 
+import java.util.Comparator;
+
 public class Triangle {
     private String name;
     private double sideA;
@@ -11,6 +13,8 @@ public class Triangle {
     }
 
     public double getSquare() {
+        double p = (sideA + sideB + sideC) / 2;
+        double square = Math.sqrt((p) * (p - sideA) * (p - sideB) * (p - sideC));
         return square;
     }
 
@@ -18,32 +22,31 @@ public class Triangle {
         this.name = name;
     }
 
-    public void setSideA(double sideA) throws Exception {
-        if (sideA < 0) throw new Exception("The side A is less then 0");
+    public String getName() {
+        return name;
+    }
+
+    public void setSideA(double sideA) throws TriangleException {
+        if (sideA < 0) throw new TriangleException("The side A is less then 0");
         this.sideA = sideA;
     }
 
 
-    public void setSideB(double sideB) throws Exception {
-        if (sideB < 0) throw new Exception("The side B is less then 0");
+    public void setSideB(double sideB) throws TriangleException {
+        if (sideB < 0) throw new TriangleException("The side B is less then 0");
         this.sideB = sideB;
     }
 
 
-    public void setSideC(double sideC) throws Exception {
-        if (sideC < 0) throw new Exception("The side C is less then 0");
+    public void setSideC(double sideC) throws TriangleException {
+        if (sideC < 0) throw new TriangleException("The side C is less then 0");
         this.sideC = sideC;
     }
 
-    public void setSquare() throws TriangleException {
-        if ((sideA + sideB > sideC) && (sideA + sideC > sideB) && (sideB + sideC > sideA)) {
-            double p = (sideA + sideB + sideC) / 2;
-            double squeare = Math.sqrt((p) * (p - sideA) * (p - sideB));
-        } else {
-            throw new TriangleException("It is not triangle");
-        }
-
+    public void setSquare() {
+        double p = (sideA + sideB + sideC) / 2;
+        double square = Math.sqrt((p) * (p - sideA) * (p - sideB) * (p - sideC));
     }
-
 }
+
 

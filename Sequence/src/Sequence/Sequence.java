@@ -1,18 +1,26 @@
 package Sequence;
 
 public class Sequence {
-    private int firstNumber;
-    private int length;
+    private int firstNumber=-1;
+    private int length=-1;
 
     public Sequence(){}
 
-    public void SetFirstNumber(String m) {
+    public int getFirstNumber() {
+        return firstNumber;
+    }
+
+    public int getLength() {
+        return length;
+    }
+
+    public void SetFirstNumber(String m) throws MyException {
         int square = 0;
         try {
             square = Integer.parseInt(m);
         }
         catch (NumberFormatException e){
-            new NumberFormatException("It is not an integer number");
+            throw new MyException("It is not an integer number");
         }
 
         if (Math.sqrt(square) == (int) Math.sqrt(square)){
@@ -22,16 +30,15 @@ public class Sequence {
         }
     }
 
-    public void SetLength (String n)throws SequenceException{
-
-        if(Integer.parseInt(n) <= 0) throw new SequenceException("The number most be more then 0");
+    public void SetLength (String n)throws MyException {
 
         try {
             length = Integer.parseInt(n);
         }
         catch (NumberFormatException e){
-            new NumberFormatException("It is not an integer number");
+            throw new MyException("It is not an integer number");
         }
+        if(length <= 0) throw new MyException("The number most be more then 0");
     }
 
     public int[] getSequenceArr() {
